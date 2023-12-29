@@ -18,7 +18,6 @@ D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\SimpleFe
 D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\SimpleFeedReader.MvcApplicationPartsAssemblyInfo.cache
 D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\SimpleFeedReader.RazorAssemblyInfo.cache
 D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\SimpleFeedReader.RazorAssemblyInfo.cs
-D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\SimpleFeedReader.sourcelink.json
 D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\staticwebassets.build.json
 D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\staticwebassets.development.json
 D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\staticwebassets\msbuild.SimpleFeedReader.Microsoft.AspNetCore.StaticWebAssets.props

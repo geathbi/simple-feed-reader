@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleFeedReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eea6b813a1f3eeb1259d34ba94142064feb53bf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleFeedReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleFeedReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
