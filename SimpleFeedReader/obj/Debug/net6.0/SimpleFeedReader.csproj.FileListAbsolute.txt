@@ -32,3 +32,4 @@ D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\refint\S
 D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\SimpleFeedReader.pdb
 D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\SimpleFeedReader.genruntimeconfig.cache
 D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\ref\SimpleFeedReader.dll
+D:\LearnDemos\DevOps\SimpleFeedReader\SimpleFeedReader\obj\Debug\net6.0\SimpleFeedReader.sourcelink.json
