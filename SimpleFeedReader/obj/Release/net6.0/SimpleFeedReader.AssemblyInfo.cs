@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleFeedReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d7bb873bf1be0398ffa25000bb414c36ced4cc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18e2e7c95e50fcc70c96537e8bf96967b5404b85")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleFeedReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleFeedReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
