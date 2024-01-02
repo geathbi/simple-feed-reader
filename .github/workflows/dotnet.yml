@@ -38,6 +38,8 @@ jobs:
         name: website
         path: website/** 
         if-no-files-found: error
+    - name: Test websitepath
+      run: ls -R
 
   deploy_staging:
     needs: build
