@@ -38,8 +38,8 @@ jobs:
         name: website
         path: website/** 
         if-no-files-found: error
-    - name: Test websitepath
-      run: ls -R
+    - name: Test buildwebsitepath
+      run: ls
 
   deploy_staging:
     needs: build
@@ -50,6 +50,8 @@ jobs:
       url: ${{ steps.deploywebapp.outputs.webapp-url }}
 
     steps:
+    - name: Test deploywebsitepath
+      run: ls
     - name: Download a Build Artifact
       uses: actions/download-artifact@v3
       with:
