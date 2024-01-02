@@ -50,26 +50,16 @@ jobs:
       url: ${{ steps.deploywebapp.outputs.webapp-url }}
 
     steps:
-    - name: Test deploywebsitepath
+    - name: Test deploywebsitepathprior
       run: ls
-    - name: Download a Build Artifact
-      uses: actions/download-artifact@v3
-      with:
-        name: website
-        path: website 
-
+     
     - name : Login via Azure CLI
       uses: azure/login@v1
       with: 
          creds: ${{ secrets.AZURE_CREDENTIALS }}
             
-    - name: Deploy web app
-      id: deploywebapp 
-      uses: azure/webapps-deploy@v2 
-      with: 
-        app-name: ${{ env.app-name }}
-        slot-name: staging 
-        package: website
+    - name: Test deploywebsitepathafter
+      run: ls
     
     - name: az cli logout
       run: az logout
